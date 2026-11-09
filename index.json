@@ -1,0 +1,11 @@
+{
+  "org": "cucumber",
+  "repo": "cucumber-ruby",
+  "versions": [
+    {
+      "commit": "0a5512bd64f5619c54beb15dcfaf8040157b1f81",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:37:09.435339+00:00"
+    }
+  ]
+}
